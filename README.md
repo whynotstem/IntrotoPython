@@ -1,9 +1,11 @@
-# Intro to Python Course by WhyNotStem
+# Intro to Python by WhyNotStem
 
 
 Welcome to Intro to Python, your practical guide to learning Python and MicroPython through simple, clear, and hands-on chapters. This repository is designed for students and beginners who want to build real skills without getting lost in technical jargon.
 
-Why Choose Introtopython?
+
+## Features
+
 Simple Language
 Every chapter is written in plain English, focusing on clarity and ease of understanding. You won’t find confusing terms or unnecessary complexity here.
 
