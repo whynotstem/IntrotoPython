@@ -1,6 +1,6 @@
 # WORKINPROGRESS! 
 
-Source, Inspiration, And Appreciationto Jack Freud and all the shoulders of giants we stand on): [g](https://github.com/jackfrued/Python-100-Days/)
+Source, Inspiration, And Appreciation to [Jack Freud](https://github.com/jackfrued/Python-100-Days/) and all the shoulders of giants we stand on :) 
 
 # Intro to Python by WhyNotStem
 
