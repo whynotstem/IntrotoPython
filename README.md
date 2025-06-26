@@ -1,3 +1,5 @@
+# WORKINPROGRESS!
+
 # Intro to Python by WhyNotStem
 
 
@@ -6,29 +8,34 @@ Welcome to Intro to Python, your practical guide to learning Python and MicroPyt
 
 ## Features
 
-Simple Language
+**Simple Language**
+
 Every chapter is written in plain English, focusing on clarity and ease of understanding. You won’t find confusing terms or unnecessary complexity here.
 
-Practical Examples
+**Practical Examples**
+
 Each topic comes with practical, ready-to-run code snippets and real-world examples. Learn by doing, not just by reading.
 
-Step-by-Step Learning
+**Step-by-Step Learning**
+
 Concepts build on each other, starting from the basics and moving to more advanced topics at a comfortable pace.
 
-Covers Python & MicroPython
+**Covers Python & MicroPython**
+
 Whether you’re coding on your computer or a microcontroller, you’ll find relevant lessons and tips.
 
-Curated from the Best Resources
+**Curated from the Best Resources**
+
 Content is gathered and distilled from trusted sources around the web, saving you time and helping you focus on what matters.
 
-Who is this for?
+**Who is this for?**
 Students new to programming
 
 Hobbyists interested in Python or MicroPython
 
 Anyone who prefers learning with simple, actionable instructions
 
-What You’ll Find Here
+**What You’ll Find Here**
 Chapters: Organized by topic, each with explanations, code, and exercises
 
 Quick Reference: Handy guides for common tasks
@@ -38,7 +45,7 @@ Project Ideas: Suggestions to help you practice and apply your skills
 Getting Started
 Browse the chapters in the repository.
 
-Try the code examples on your own device or microcontroller.
+Try the code examples.
 
 Use the quick reference and project ideas to deepen your understanding.
 
