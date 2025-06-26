@@ -1,4 +1,4 @@
-# WORKINPROGRESS!
+# WORKINPROGRESS! MAIN SOURCE AND INSPIRATION AND APPRECIATION (To all the shoulders of giants we stand on): https://github.com/jackfrued/Python-100-Days/
 
 # Intro to Python by WhyNotStem
 
